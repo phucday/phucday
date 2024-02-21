@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @phucday
-- 👀 I’m interested in coding,sports,table tennis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi! I'm Phuc, currently a second-year student majoring in Mathematics and Computer Science.(Vnu University of Science). 
+- 👀 I'm interested in programming apps, more broadly in exploring surrounding technologies, developing useful and creative features, and ensuring UX/UI quality.
 
 <!---
 phucday/phucday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
